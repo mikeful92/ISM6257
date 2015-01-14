@@ -18,15 +18,13 @@ public class ISM6257 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        System.out.println("\\\\“Student Points“//");
+        System.out.println("\\\\“Student Points“//\n");
         System.out.println("Name\t\tLab\tBonus\tTotal");
         System.out.println("----\t\t---\t-----\t-----");
         System.out.println("Andy\t\t46\t5\t51");
         System.out.println("Amy\t\t43\t7\t50");
         System.out.println("Alice\t\t50\t8\t58");
         System.out.println("Austin\t\t39\t10\t49");
-
     }
     
 }
